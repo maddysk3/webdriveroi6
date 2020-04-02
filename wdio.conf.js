@@ -59,8 +59,6 @@ exports.config = {
 "osVersion" : "10",
 "local" : "false",
 "seleniumVersion" : "3.5.2",
-"userName" : "mireshsonkamble1",
-"accessKey" : "YAyjQiCwR6QUF6DGvSBM",
 },
 "browserName" : "Chrome",
 "browserVersion" : "80.0",
